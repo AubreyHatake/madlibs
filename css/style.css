@@ -1,0 +1,29 @@
+.story {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: larger;
+    margin: 28px;
+    padding: 40px
+}
+
+div {
+    position: absolute;
+    top: 130px;
+}
+
+p {
+    display: inline-flex;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: larger;
+}
+
+button {
+    display: block;
+    width: 20%;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: "Arial";
+    background-color: rgb(235, 154, 235);
+    
+}
