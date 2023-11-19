@@ -1,7 +1,7 @@
 // Variable arrays 
 var verbs = ["run", "jump", "duck", "walk", "skip", "dance"];
 var verbing = ["running", "jumping", "walking", "skipping", "dancing"];
-var nouns = [" Beyonce ", " New York", " Microwave ", " Florida ", " backpack ", " fridge ", " chair "];
+var nouns = [" Beyonce ", " New York", " Microwave ", " Florida ", " backpack ", " fridge ", "  chair  "];
 var adjectives = ["pretty", "nice", "tall", "strong","weak", "ugly", "fat", "short"];
 
 
